@@ -1,0 +1,10 @@
+Github com conteúdos referentes ao TCC em ciências de Dados.
+
+Conteúdo:
+
+Jupyter notebook para analisar dados de Despesas Públicas do Governo Federal
+Base de Dados utilizadas
+Bases de Dados Importadas (Originais, de onde montou-se as bases utilizadas)
+Trabalho de Conclusão de curso
+Mini apresentação 
+Para rodar localmente ou no Colab, inserir os arquivos: 'despesas_2014a20.xlsx' e 'IPCA_ajustada.xlsx', para cada jupyter respectivamente.
