@@ -7,4 +7,4 @@ Base de Dados utilizadas
 Bases de Dados Importadas (Originais, de onde montou-se as bases utilizadas)
 Trabalho de Conclusão de curso
 Mini apresentação 
-Para rodar localmente ou no Colab, inserir os arquivos: 'despesas_2014a20.xlsx' e 'IPCA_ajustada.xlsx', para cada jupyter respectivamente.
+Para rodar localmente ou no Colab, inserir os arquivos: 'despesas_2014a20.xlsx' e 'IPCA_ajustada.xlsx'.
